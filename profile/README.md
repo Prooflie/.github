@@ -6,7 +6,7 @@
 
 This repository offers access to the **Proofly AI API**, allowing you to upload images, analyze deepfakes, and retrieve processed results through a **secure, developer-friendly** environment.  
 
-🔗 **Live API Documentation**: [API Docs](http://api.proofly.ai)  
+🔗 **Live API Documentation**: [API Docs](http://get.proofly.ai)  
 
 ---
 
@@ -30,7 +30,7 @@ Use the **session UUID** to get detection results, including deepfake probabilit
 ### 3️⃣ Access Processed Data  
 Retrieve the **original image**, detected **face crops**, and classification results for further analysis.  
 
-🔗 **Full API Reference**: [Swagger Docs](http://api.proofly.ai)  
+🔗 **Full API Reference**: [Swagger Docs](http://get.proofly.ai)  
 
 ---
 

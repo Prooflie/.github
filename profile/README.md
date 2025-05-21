@@ -1,10 +1,10 @@
-# Proofly AI – Advanced Deepfake Detection API  
+# Prooflie – Advanced Deepfake Detection API  
 
-## 🔍 About Proofly AI  
+## 🔍 About Prooflie
 
-**Proofly AI** provides state-of-the-art **deepfake detection** technology, combining **advanced deep learning models** and **custom AI algorithms** to ensure content authenticity. Our mission is to empower developers, researchers, and organizations with scalable, high-precision tools to combat digital fraud and identity manipulation.  
+**Proofie** provides state-of-the-art **deepfake detection** technology, combining **advanced deep learning models** and **custom AI algorithms** to ensure content authenticity. Our mission is to empower developers, researchers, and organizations with scalable, high-precision tools to combat digital fraud and identity manipulation.  
 
-This repository offers access to the **Proofly AI API**, allowing you to upload images, analyze deepfakes, and retrieve processed results through a **secure, developer-friendly** environment.  
+This repository offers access to the **Prooflie API**, allowing you to upload images, analyze deepfakes, and retrieve processed results through a **secure, developer-friendly** environment.  
 
 🔗 **Live API Documentation**: [API Docs](http://get.proofly.ai)  
 
@@ -66,7 +66,7 @@ We welcome contributions from the **developer and research community**! If you h
 
 ## 🔗 Stay Connected  
 
-- 🌐 **Website**: [proofly.ai](https://proofly.ai/)  
-- 📖 **Research & Papers**: [proofly.ai/research](https://proofly.ai/research)  
-- 🐦 **Twitter/X**: [@ProoflyAI](https://x.com/prooflyai)  
-- 💼 **LinkedIn**: [Proofly AI](https://www.linkedin.com/company/prooflyai/)  
+- 🌐 **Website**: [prooflie.com](https://prooflie.com/)  
+- 📖 **Research & Papers**: [prooflie.com/research](https://proofly.ai/research)  
+- 🐦 **X**: [@ProoflyAI](https://x.com/prooflyai)  
+- 💼 **LinkedIn**: [Prooflie](https://www.linkedin.com/company/prooflie/)
